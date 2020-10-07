@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LatihanStorage2</string>
+    <string name="Buat_File">Buat File</string>
+    <string name="Ubah_File">Ubah File</string>
+    <string name="Baca_File">Baca File</string>
+    <string name="Hapus_File">Hapus File</string>
+
+</resources>
